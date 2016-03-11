@@ -1,0 +1,11 @@
+c:\users\jn camilo\documents\visual studio 2010\Projects\RedesSociales\RedesSociales\obj\x86\Debug\RedesSociales.Form1.resources
+c:\users\jn camilo\documents\visual studio 2010\Projects\RedesSociales\RedesSociales\obj\x86\Debug\RedesSociales.Properties.Resources.resources
+c:\users\jn camilo\documents\visual studio 2010\Projects\RedesSociales\RedesSociales\obj\x86\Debug\RedesSociales.csproj.GenerateResource.Cache
+F:\RedesSociales\RedesSociales\obj\x86\Debug\RedesSociales.csprojResolveAssemblyReference.cache
+F:\RedesSociales\RedesSociales\obj\x86\Debug\RedesSociales.Form1.resources
+F:\RedesSociales\RedesSociales\obj\x86\Debug\RedesSociales.Properties.Resources.resources
+F:\RedesSociales\RedesSociales\obj\x86\Debug\RedesSociales.csproj.GenerateResource.Cache
+F:\RedesSociales\RedesSociales\bin\Debug\RedesSociales.exe
+F:\RedesSociales\RedesSociales\bin\Debug\RedesSociales.pdb
+F:\RedesSociales\RedesSociales\obj\x86\Debug\RedesSociales.exe
+F:\RedesSociales\RedesSociales\obj\x86\Debug\RedesSociales.pdb
