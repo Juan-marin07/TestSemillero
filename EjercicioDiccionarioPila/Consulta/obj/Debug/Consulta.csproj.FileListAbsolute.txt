@@ -1,0 +1,6 @@
+c:\users\yuxi.p\documents\visual studio 2013\Projects\Consulta\Consulta\bin\Debug\Consulta.exe.config
+c:\users\yuxi.p\documents\visual studio 2013\Projects\Consulta\Consulta\bin\Debug\Consulta.exe
+c:\users\yuxi.p\documents\visual studio 2013\Projects\Consulta\Consulta\bin\Debug\Consulta.pdb
+c:\users\yuxi.p\documents\visual studio 2013\Projects\Consulta\Consulta\obj\Debug\Consulta.csprojResolveAssemblyReference.cache
+c:\users\yuxi.p\documents\visual studio 2013\Projects\Consulta\Consulta\obj\Debug\Consulta.exe
+c:\users\yuxi.p\documents\visual studio 2013\Projects\Consulta\Consulta\obj\Debug\Consulta.pdb
